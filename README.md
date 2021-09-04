@@ -2,7 +2,7 @@
 
 I have created Machine Learning Model With Gradient Boosting Classifier for Rain Predictions.
 
-In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Plotly](), [Sklearn]() and much more for Analysis, Vizualization and Model Development.
+In this I've used Python’s Famous libraries like [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Plotly](https://www.geeksforgeeks.org/getting-started-with-plotly-python/#:~:text=The%20Plotly%20Python%20library%20is%20an%20interactive%20open%2Dsource%20library.&text=plotly%20graph%20objects%20are%20a,histograms%2C%20pie%20charts%2C%20etc.), [Sklearn](https://scikit-learn.org/) and much more for Analysis, Vizualization and Model Development.
 
 I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
