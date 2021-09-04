@@ -17,13 +17,13 @@ I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 * Generate model summary statistics
 * Generate the 3D graph
 
-***Follow notebook for more!***
+***Follow [notebook](https://github.com/Anuragtsl/ML-Rain_Prediction_GradientBoosting_Classifier/blob/main/Rain%20Prediction%20Gradient%20Boosting%20Classifier.ipynb) for more!***
 
 # Preview
 
-![Image0]()
+![Image0](https://github.com/Anuragtsl/ML-Rain_Prediction_GradientBoosting_Classifier/blob/main/Images/0.png)
 
-![Image0]()
+![Image1](https://github.com/Anuragtsl/ML-Rain_Prediction_GradientBoosting_Classifier/blob/main/Images/1.png)
 
 
 #Njoy!
