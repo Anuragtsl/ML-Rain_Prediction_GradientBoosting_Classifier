@@ -4,9 +4,9 @@ I have created Machine Learning Model With Gradient Boosting Classifier for Rain
 
 In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Plotly](), [Sklearn]() and much more for Analysis, Vizualization and Model Development.
 
-I've used [Jupyter Notebook]() for coding!
+I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
-Download the dataset from [Kaggle]()!
+**Download the dataset from [Kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)!**
 
 # Table of Contents
 
